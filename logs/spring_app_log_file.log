@@ -1,0 +1,5 @@
+2021-03-23 09:30:37,256 INFO com.uv.birthdayreminder.BirthdayReminderApplication [restartedMain] Starting BirthdayReminderApplication using Java 1.8.0_281 on UDAYYA-W10 with PID 20584 (D:\Spring_Boot_Microservice\birthday-reminder\target\classes started by udayya in D:\Spring_Boot_Microservice\birthday-reminder)
+2021-03-23 09:30:37,256 DEBUG com.uv.birthdayreminder.BirthdayReminderApplication [restartedMain] Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-23 09:30:37,256 INFO com.uv.birthdayreminder.BirthdayReminderApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-23 09:30:37,556 INFO com.uv.birthdayreminder.BirthdayReminderApplication [restartedMain] Started BirthdayReminderApplication in 0.392 seconds (JVM running for 54144.347)
+2021-03-23 09:30:37,556 INFO com.uv.birthdayreminder.BirthdayReminderApplication [restartedMain] BirthdayReminderApplication Application Started !!!!
